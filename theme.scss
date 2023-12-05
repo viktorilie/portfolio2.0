@@ -1,0 +1,13 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+  body{
+    font-family: 'Open sans',sans-serif !important;
+  }
+
+  $primary:#1f3a59;
+  $secondary:#0a2039;
+  $success:rgb(26, 26, 212);
+
+  @import "bootstrap/scss/bootstrap.scss";
+  
